@@ -1,0 +1,24 @@
+body {
+    font-family: 'yekan'!important;
+}
+
+a {
+    cursor: pointer;
+}
+
+.alert {
+    position: absolute;
+}
+
+.btn{
+    font-size: 20px;
+}
+
+button:focus{
+    outline: none!important;
+}
+
+.react-select__control{
+    width: 100%!important;
+    margin: 0!important;
+}
